@@ -1,0 +1,14 @@
+* {
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+}
+.video {
+	width: 70%;
+	float: left;
+}
+.playlist {
+	width: 30%;
+	float: left;
+}
