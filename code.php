@@ -1,5 +1,5 @@
 <?php
-function getFiles($path = '/var/www/html/jojo') {
+function getFiles($path = '/var/www/html/videos') {
 
 $videopath=str_replace("/var/www/html/", "", $path);
 
